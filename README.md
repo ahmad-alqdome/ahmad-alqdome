@@ -12,8 +12,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br/>
 ![Kotlin](https://img.shields.io/badge/kotlin-%23b207b8.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/android-%23057539svg?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23c9940csvg?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/android-%23057539.svg?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23c9940c.svg?style=for-the-badge&logo=java&logoColor=white)
 <br/>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
